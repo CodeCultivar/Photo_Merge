@@ -1,0 +1,8 @@
+# Output from dedupe_by_hash.py
+duplicates_report*.csv
+_duplicates_quarantine/
+
+# Python / OS
+__pycache__/
+*.pyc
+.DS_Store
